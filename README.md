@@ -1,6 +1,7 @@
 Project Background: This project is created as part of learning process about Building API Automation Framework in JayJay Professional QA Engineer Bootcamp.
 
 Project Objective: This project aims to apply the theory about Building API Automation Framework using TestNG.
+Notes: This project is limited to what has been taught in the Video Lessons of Module 20.
 
 How to run the project: To run the project, run the Test according to which Test you would like to run or run all test from the class.
 
