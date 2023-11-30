@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="Lesson20AutomationHR">
+    <test name="Lesson20AutoHR">
+        <classes>
+            <class name="apiAutomation.apiAutoHR"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
